@@ -1,3 +1,0 @@
-# helloworld
-
-GitHub - mitä ihmettä!
